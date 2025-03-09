@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0204-count-primes) |
+| [3483-alternating-groups-ii](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3483-alternating-groups-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -58,4 +59,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->
