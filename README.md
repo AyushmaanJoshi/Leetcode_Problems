@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0204-count-primes) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3483-alternating-groups-ii](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3643-zero-array-transformation-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -76,8 +77,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [3643-zero-array-transformation-ii](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
