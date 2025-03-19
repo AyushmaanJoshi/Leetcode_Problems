@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0204-count-primes) |
+| [0312-burst-balloons](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0312-burst-balloons) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2478-longest-nice-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0312-burst-balloons](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0312-burst-balloons) |
 <!---LeetCode Topics End-->
