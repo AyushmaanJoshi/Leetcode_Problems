@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2690-house-robber-iv) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3430-count-days-without-meetings](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3643-zero-array-transformation-ii) |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Sorting
+|  |
+| ------- |
+| [3430-count-days-without-meetings](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3430-count-days-without-meetings) |
 <!---LeetCode Topics End-->
