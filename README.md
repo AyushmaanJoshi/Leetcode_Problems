@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2262-solving-questions-with-brainpower](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2478-longest-nice-subarray) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0312-burst-balloons](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0312-burst-balloons) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2262-solving-questions-with-brainpower) |
 ## Queue
 |  |
 | ------- |
