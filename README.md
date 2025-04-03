@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0046-permutations) |
 | [0204-count-primes](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0312-burst-balloons](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0312-burst-balloons) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -204,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3001-apply-operations-to-maximize-score) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
