@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -38,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2793-count-the-number-of-complete-components) |
 ## Array
@@ -107,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0768-partition-labels](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0768-partition-labels) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2308-divide-array-into-equal-pairs) |
