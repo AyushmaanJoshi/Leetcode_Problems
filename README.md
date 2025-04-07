@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0312-burst-balloons](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0312-burst-balloons](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2262-solving-questions-with-brainpower) |
 ## Queue
