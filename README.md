@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1656-count-good-triplets](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0204-count-primes) |
+| [1656-count-good-triplets](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3548-find-the-count-of-good-integers) |
