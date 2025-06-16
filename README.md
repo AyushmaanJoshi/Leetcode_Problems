@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0046-permutations) |
 | [0204-count-primes](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0312-burst-balloons](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0312-burst-balloons) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0768-partition-labels](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
