@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0204-count-primes](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0368-largest-divisible-subset](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [2050-count-good-numbers](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
 |  |
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2280-count-good-triplets-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
