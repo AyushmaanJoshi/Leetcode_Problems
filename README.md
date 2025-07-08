@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1656-count-good-triplets](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1656-count-good-triplets) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -248,12 +250,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2681-put-marbles-in-bags) |
 ## Greedy
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0768-partition-labels) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2681-put-marbles-in-bags](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
