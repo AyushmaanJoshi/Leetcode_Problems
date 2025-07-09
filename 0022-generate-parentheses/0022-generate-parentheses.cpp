@@ -1,22 +1,34 @@
 class Solution {
 public:
-vector<string>res;
-void solve(string str,int open ,int close,int n){
-    if(str.size()==2*n) {
-    res.push_back(str);
-    return ;
+    vector<string> res;
+
+    bool is_valid(const string& str) {
+        int count = 0;
+        for (char ch : str) {
+            if (ch == '(') {
+                count++;
+            } else {
+                count--;
+                if (count < 0) return false;
+            }
+        }
+        return count == 0;
     }
 
-if(open<n){
-    solve(str+"(",open+1,close,n);
-    
-}if(close<open){
-    solve(str+")",open,close+1,n);
-}
-}
-vector<string> generateParenthesis(int n) {
-        solve("",0,0,n);
+    void solve(string cur, int n) {
+        if (cur.length() == 2 * n) {
+            if (is_valid(cur)) {
+                res.push_back(cur);
+            }
+            return;
+        }
+
+        solve(cur + "(", n);
+        solve(cur + ")", n);
+    }
+
+    vector<string> generateParenthesis(int n) {
+        solve("", n);
         return res;
     }
-
 };
