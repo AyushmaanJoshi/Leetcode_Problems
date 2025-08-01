@@ -319,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
