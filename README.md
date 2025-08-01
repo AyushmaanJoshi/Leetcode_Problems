@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0046-permutations) |
+| [0118-pascals-triangle](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0204-count-primes](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0312-burst-balloons](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0312-burst-balloons](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
