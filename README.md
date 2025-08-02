@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2690-house-robber-iv) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3001-apply-operations-to-maximize-score) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2689-rearranging-fruits](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2689-rearranging-fruits) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3548-find-the-count-of-good-integers](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2689-rearranging-fruits) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3430-count-days-without-meetings) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/0768-partition-labels) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2681-put-marbles-in-bags](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2689-rearranging-fruits) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Monotonic Stack
