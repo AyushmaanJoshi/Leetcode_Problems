@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
 |  |
 | ------- |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2280-count-good-triplets-in-an-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/2280-count-good-triplets-in-an-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/AyushmaanJoshi/Leetcode_Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Design
 |  |
 | ------- |
